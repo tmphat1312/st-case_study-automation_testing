@@ -33,11 +33,11 @@ npx playwright install --with-deps
 
 If you have any customization on sut_sharebug config
 
-> > create `.env` off of `.env.example` and change them as your customization
+> create `.env` off of `.env.example` and change them as your customization
 
 Else
 
-> > copy `.env.example` to `.env`
+> copy `.env.example` to `.env`
 
 # What's next?
 
